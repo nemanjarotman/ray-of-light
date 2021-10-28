@@ -1,3 +1,3 @@
-import Content from './Content';
+import Conte321312312nt from './Content';
 
 export default Content;
